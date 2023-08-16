@@ -99,6 +99,4 @@ In general, keep an eye out in the `issues` and `discussions` section of this re
 - Check that you don't have multiple OPENAPI keys in your global environment. If you do, the local `env` file from the project will be overwritten by systems `env` variable.
 - Try to hard code your API keys into the `process.env` variables if there are still issues.
 
-## Credit
 
-Frontend of this repo is inspired by [gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain), and [gpt4-pdf-chatbot-langchain-chroma](https://github.com/sagarsaija/gpt4-pdf-chatbot-langchain-chroma)
